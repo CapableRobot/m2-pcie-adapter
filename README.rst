@@ -20,7 +20,7 @@ Key features
 * M.2 (key-M) edge connector
 * PCIe x4 EdgeMount connector (Samtec PCIE-064-02-F-D-EMS2)
 * external power supply connector (Molex 22053041)
-* Nano Baseboard power supply pogo pins (Harwin P70-1000045R)
+* Nano Baseboard power supply pogo pins (Harwin P70-1010045R)
 
 The PCB project files were prepared in KiCAD.
 
